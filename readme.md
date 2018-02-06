@@ -1,0 +1,1 @@
+This folder contains my GitHub Repo Assignment files for Coding Dojo
